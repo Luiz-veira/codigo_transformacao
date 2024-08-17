@@ -1,0 +1,22 @@
+@charset "utf8";
+
+/* aqui é um comentário */
+
+*{
+   /* vamos criar um reset de uma página, onde o css deve limpar as configurações. */
+   padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+}
+
+/* id = usar para qualquer espaço 
+   class = reseevado  
+*/
+
+
+body{
+    background-color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+}
